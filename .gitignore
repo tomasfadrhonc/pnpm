@@ -3,4 +3,3 @@
 .idea
 .idea/*
 app/
-!app/www/index.php
