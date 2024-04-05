@@ -2,4 +2,6 @@
 .git
 .idea
 .idea/*
-app/
+/app/
+/app/*
+
